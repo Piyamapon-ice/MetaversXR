@@ -1,0 +1,305 @@
+{
+  "service": [
+    {
+      "id": "1",
+      "image": "/images/Service/web3.0.svg",
+      "heading": "WEB 3.0",
+      "text": "Web 3.0 is the Next Version of the World Wide Web, Featuring Enhanced Intelligence."
+    },
+    {
+      "id": "2",
+      "image": "/images/Service/block_chain.svg",
+      "heading": "Blockchain",
+      "text": "A Blockchain is a Digital Ledger Used to Record Transactions Securely."
+    },
+    {
+      "id": "3",
+      "image": "/images/Service/metaverse.svg",
+      "heading": "Metaverse",
+      "text": "The Metaverse is a Virtual Shared Space With Immersive and Interactive Experiences."
+    },
+    {
+      "id": "4",
+      "image": "/images/Service/digital_twin.svg",
+      "heading": "Digital Twin",
+      "text": "A Digital Twin is a Virtual Model Used for Simulation and Analysis."
+    },
+    {
+      "id": "5",
+      "image": "/images/Service/digital_human.svg",
+      "heading": "Digital Human",
+      "text": "A Digital Human is a Computer-generated Representation of a Human."
+    },
+    {
+      "id": "6",
+      "image": "/images/Service/virtual_influencer.svg",
+      "heading": "Virtual Influencer",
+      "text": "Virtual Influencers Are Digital Avatars Used to Promote Products and Brands."
+    },
+    {
+      "id": "7",
+      "image": "/images/Service/point_cloud.svg",
+      "heading": "Point Cloud",
+      "text": "A Point Cloud is a Set of 3d Data Points Used to Represent Objects or Environments."
+    },
+    {
+      "id": "8",
+      "image": "/images/Service/3d_valumetric.svg",
+      "heading": "3D Valumetric",
+      "text": "Create 3d Objects by Scanning Through Real People in Real Time."
+    },
+    {
+      "id": "9",
+      "image": "/images/Service/user_generated.svg",
+      "heading": "User Generated",
+      "text": "A User-generated Business Relies on Its Users to Create and Contribute Value."
+    },
+    {
+      "id": "10",
+      "image": "/images/Service/ar_vr_xr.svg",
+      "heading": "AR/VR/XR",
+      "text": "AR/VR/XR Technologies Allow Users to Experience Immersive Digital Environments."
+    }
+  ],
+  "portfolio": [
+    {
+      "id" : "1",
+      "imageSub" : "/images/Portfolio/Aurora VERSE/02_Aurora.png",
+      "heading" : "Aurora VERSE"
+    },
+    {
+      "id" : "2",
+      "imageSub" : "/images/Portfolio/Night Safari/01_NightSafari.png",
+      "heading" : "Night Safari"
+    },
+    {
+      "id" : "3",
+      "imageSub" : "/images/Portfolio/PTT VIRTUAL GALLERY/02_PTT.png",
+      "heading" : "PTT VIRTUAL GALLERY"
+    },
+    {
+      "id" : "4",
+      "imageSub" : "/images/Portfolio/SCGC virtual site/03_SCGC.png",
+      "heading" : "SCGC virtual site"
+    },
+    {
+      "id" : "5",
+      "imageSub" : "/images/Portfolio/software and game in Tomorrowland at nstfair/03_TmrLand.png",
+      "heading" : "Software and game in Tomorrowland at nstfair"
+    },
+    {
+      "id" : "6",
+      "imageSub" : "/images/Portfolio/Technomart 2022 website/02_TechnoMart.png",
+      "heading" : "Technomart 2022 website"
+    },
+    {
+      "id" : "7",
+      "imageSub" : "/images/Portfolio/THAILAND METAVERSE EXPO 2022/01_ThailandMetaVerse.png",
+      "heading" : "THAILAND METAVERSE EXPO 2022"
+    },
+    {
+      "id" : "8",
+      "imageSub" : "/images/Portfolio/ThaimadeThai - Metaverse/01_ThaimadeThai.png",
+      "heading" : "ไทยสร้างไทย - Metaverse"
+    },
+    {
+      "id" : "9",
+      "imageSub" : "/images/Portfolio/Virtual influencer - Pruksa/01_VRPruksa (1).png",
+      "heading" : "Virtual influencer - พฤกษา"
+    },
+    {
+      "id" : "10",
+      "imageSub" : "/images/Portfolio/virtual mall @aeon mall ,KL. malaysia/01_VRAeon.png",
+      "heading" : "Virtual mall @aeon mall ,KL. malaysia"
+    },
+    {
+      "id" : "11",
+      "imageSub" : "/images/Portfolio/Virtual MC For Alibaba cloud day/01_VRAlibaba.png",
+      "heading" : "Virtual MC For Alibaba cloud day"
+    },
+    {
+      "id" : "12",
+      "imageSub" : "/images/Portfolio/website for rakxa wellness/01_Rakxa.png",
+      "heading" : "Website for rakxa wellness"
+    },
+    {
+      "id" : "13",
+      "imageSub" : "/images/Portfolio/world expo dubai 2022 x PTTep/01_PTTep.png",
+      "heading" : "World expo dubai 2022 x PTTep"
+    },
+    {
+      "id" : "14",
+      "imageSub" : "/images/Portfolio/XR LAB x UTCC/02_UTCC.png",
+      "heading" : "XR LAB x UTCC"
+    },
+    {
+      "id" : "15",
+      "imageSub" : "/images/Portfolio/5 tigers chinese new year x central pattana/01_Tiger.png",
+      "heading" : "5 tigers chinese new year x central pattana"
+    },
+    {
+      "id" : "16",
+      "imageSub" : "/images/Portfolio/AR HOUSE WITH SC ASSET/02_SCASSET.png",
+      "heading" : "AR HOUSE WITH SC ASSET"
+    },
+    {
+      "id" : "17",
+      "imageSub" : "/images/Portfolio/Chiangmai web3 City and Metaverse/02_CMWEB.png",
+      "heading" : "Chiangmai web3 City and Metaverse"
+    },
+    {
+      "id" : "18",
+      "imageSub" : "/images/Portfolio/dragon in ar x the mall group/01__Dragon.png",
+      "heading" : "Dragon in ar x the mall group"
+    },
+    {
+      "id" : "19",
+      "imageSub" : "/images/Portfolio/dust to dust - VSPORT/02__Dust.png",
+      "heading" : "Dust to dust - VSPORT"
+    },
+    {
+      "id" : "20",
+      "imageSub" : "/images/Portfolio/Eclipse of Darkness - VSPORT/02_Eclipse.png",
+      "heading" : "Eclipse of Darkness - VSPORT"
+    },
+    {
+      "id" : "21",
+      "imageSub" : "/images/Portfolio/INNOJUMP virtual EVENT - AIS/01_Innojump.png",
+      "heading" : "INNOJUMP virtual EVENT - AIS"
+    },
+    {
+      "id" : "22",
+      "imageSub" : "/images/Portfolio/Lion Verse @ SAHAGROUP Fair/01_Lion.png",
+      "heading" : "Lion Verse @ SAHAGROUP Fair"
+    },
+    {
+      "id" : "23",
+      "imageSub" : "/images/Portfolio/Metaversexr@sahagroup fair/03_MetaVerse.png",
+      "heading" : "Metaversexr@sahagroup fair"
+    },
+    {
+      "id" : "24",
+      "imageSub" : "/images/Portfolio/MR.FOX JOYLADA VERSE/02_Mrfox.png",
+      "heading" : "MR.FOX JOYLADA VERSE"
+    },
+    {
+      "id" : "25",
+      "imageSub" : "/images/Portfolio/open house in metaverse & 360 website x bangkok university/01_OpenHouse.png",
+      "heading" : "Open house in metaverse & 360 website x bangkok university"
+    },
+    {
+      "id" : "26",
+      "imageSub" : "/images/Portfolio/p2p lending platform by arv/01_P2P.png",
+      "heading" : "P2P lending platform by arv"
+    },
+    {
+      "id" : "27",
+      "imageSub" : "/images/Portfolio/PTT Oil Rig Simulator/03_PTT.png",
+      "heading" : "PTT Oil Rig Simulator"
+    },
+    {
+      "id" : "28",
+      "imageSub" : "/images/Portfolio/PUBG VR @Iconsiam/01_Pubg.png",
+      "heading" : "PUBG VR @Iconsiam"
+    },
+    {
+      "id" : "29",
+      "imageSub" : "/images/Portfolio/Sahagroup Fair AR Gamification/03_Sahagroup.png",
+      "heading" : "Sahagroup Fair AR Gamification"
+    },
+    {
+      "id" : "30",
+      "imageSub" : "/images/Portfolio/Sahapat 360 commerce website/01_Sahapat.png",
+      "heading" : "Sahapat 360 commerce website"
+    },
+    {
+      "id" : "31",
+      "imageSub" : "/images/Portfolio/SHOP GLOBAL LIVE META EVENT/01_SHOP.png",
+      "heading" : "SHOP GLOBAL LIVE META EVENT"
+    },
+    {
+      "id" : "32",
+      "imageSub" : "/images/Portfolio/tiger aungpao in ar x the mall group/03_Tiger.png",
+      "heading" : "Tiger aungpao in ar x the mall group"
+    },
+    {
+      "id" : "33",
+      "imageSub" : "/images/Portfolio/tiger shrine in vr x the mall group/01_TigerShrine.png",
+      "heading" : "Tiger shrine in vr x the mall group"
+    },
+    {
+      "id" : "34",
+      "imageSub" : "/images/Portfolio/Tli-Verse By Thailife/01_TilVerse.png",
+      "heading" : "Tli-Verse By Thailife"
+    },
+    {
+      "id" : "35",
+      "imageSub" : "/images/Portfolio/townhall x metaverse thailand/02_Townhall.png",
+      "heading" : "Townhall x metaverse thailand"
+    },
+    {
+      "id" : "36",
+      "imageSub" : "/images/Portfolio/trimurti shrine x Central pattana/01_Trimu.png",
+      "heading" : "trimurti shrine x Central pattana"
+    },
+    {
+      "id" : "37",
+      "imageSub" : "/images/Portfolio/virtual 360 SHOP x bnk 48/02_BNK.png",
+      "heading" : "virtual 360 SHOP x bnk 48"
+    },
+    {
+      "id" : "38",
+      "imageSub" : "/images/Portfolio/Virtual HOUSE x SEACON/02__Seacon.png",
+      "heading" : "Virtual HOUSE x SEACON"
+    },
+    {
+      "id" : "39",
+      "imageSub" : "/images/Portfolio/virtual SHOP - Crypto payment/01_CyptoPayment.png",
+      "heading" : "virtual SHOP - Crypto payment"
+    },
+    {
+      "id" : "40",
+      "imageSub" : "/images/Portfolio/Virtual Telemedical X sspine and nerve hospital/01_Telemedical.png",
+      "heading" : "Virtual Telemedical X sspine and nerve hospital"
+    },
+    {
+      "id" : "41",
+      "imageSub" : "/images/Portfolio/Virtual THERAPY x Thonburi hospital group/02_therapy.png",
+      "heading" : "Virtual THERAPY x Thonburi hospital group"
+    },
+    {
+      "id" : "42",
+      "imageSub" : "/images/Portfolio/VR SIMULATION X chiangmai university/01_Simulator.png",
+      "heading" : "VR SIMULATION X chiangmai university"
+    },
+    {
+      "id" : "43",
+      "imageSub" : "/images/Portfolio/VR Therapy X Thonburi Healthcare Group/02_VRTherapy.png",
+      "heading" : "VR Therapy X Thonburi Healthcare Group"
+    },
+    {
+      "id" : "44",
+      "imageSub" : "/images/Portfolio/website 360 Chinese new year 2022 x the mall group/01_Web360.png",
+      "heading" : "website 360 Chinese new year 2022 x the mall group"
+    },
+    {
+      "id" : "45",
+      "imageSub" : "/images/Portfolio/WEBSITE 360 Thonburi hospital group/02_Thonburi.png",
+      "heading" : "WEBSITE 360 Thonburi hospital group"
+    }
+  ],
+  "iconHome": [
+    {
+      "id" : "1",
+      "image" : "/images/Home/IconVR.png"
+    },
+    {
+      "id" : "2",
+      "image" : "/images/Home/IconAR.png"
+    },
+    {
+      "id" : "3",
+      "image" : "/images/Home/digital_twin_group.png"
+    }
+  ]
+}
